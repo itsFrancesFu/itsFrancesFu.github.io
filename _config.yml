@@ -1,7 +1,7 @@
 # Site settings
 title: Fantasy_Fran Blog
 SEOTitle: justFrances的博客 | Fantasy_Fran Blog
-header-img: img/post-bg-rwd.jpg
+header-img: img/微信图片_20220829142551 bgp.jpg
 email: fuhaowen1020@outlook.com
 description: "L’Absurdité règne et l’amour en sauve."
 keyword: "Fantasy_Fran, Fantasy_Fran Blog, justFrances的博客, FrancesFu, StrayFran"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/itsFrancesFu/itsFrancesFu.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "die Ewigkeit ist bloß ein Augenblick, gerade lang genug für einen Spaß."
-sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/微信图片_20220829060850 avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -21,7 +21,7 @@ RSS: false
 weibo_username:     WeirdoOoO_燒麥好吃
 zhihu_username:     Amaillusion
 github_username:    itsFrancesFu
-facebook_username:  Frances Fu
+facebook_username:  FrancesFu
 jianshu_username:   
 twitter_username:   Frances_ShawR
 
