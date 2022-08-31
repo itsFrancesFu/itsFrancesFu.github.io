@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: justFrances
+disqus_username: justFrances
 
 # Gitalk
 gitalk:
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: 
+ba_track_id: 
 
 # Google Analytics
 ga_track_id: '239067330'            # Format: UA-xxxxxx-xx
