@@ -1,7 +1,7 @@
 # Site settings
 title: Fantasy_Fran Blog
 SEOTitle: justFrances的博客 | Fantasy_Fran Blog
-header-img: /img/微信图片_20220831181053 bgp2.jpg
+header-img: img/微信图片_20220831181053 bgp2.jpg
 email: fuhaowen1020@outlook.com
 description: "die Ewigkeit ist bloß ein Augenblick, gerade lang genug für einen Spaß."
 keyword: "Fantasy_Fran, Fantasy_Fran Blog, justFrances的博客, FrancesFu, StrayFran"
@@ -21,7 +21,7 @@ RSS: false
 weibo_username:     WeirdoOoO_燒麥好吃
 zhihu_username:     Amaillusion
 github_username:    itsFrancesFu
-facebook_username:  Vegan Cat
+facebook_username:  itsFrancesFu
 jianshu_username:   
 twitter_username:   Frances_ShawR
 
