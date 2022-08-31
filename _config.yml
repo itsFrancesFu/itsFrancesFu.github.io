@@ -1,7 +1,7 @@
 # Site settings
 title: Fantasy_Fran Blog
 SEOTitle: justFrances的博客 | Fantasy_Fran Blog
-header-img: img/微信图片_20220829142551 bgp.jpg
+header-img: 微信图片_20220831181053 bgp2.jpg
 email: fuhaowen1020@outlook.com
 description: "L’Absurdité règne et l’amour en sauve."
 keyword: "Fantasy_Fran, Fantasy_Fran Blog, justFrances的博客, FrancesFu, StrayFran"
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: ccd95776c855a8db8d06                            #生成的clientID
+  clientSecret: 5a702dd8b382e943f81d4f14fa84aa4dbf7853d1    #生成的clientSecret
+  repo: itsFrancesFu.github.io    #仓库名称
+  owner: itsFrancesFu    #github用户名
+  admin: itsFrancesFu
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 
+# ba_track_id: 
 
 # Google Analytics
 ga_track_id: '239067330'            # Format: UA-xxxxxx-xx
