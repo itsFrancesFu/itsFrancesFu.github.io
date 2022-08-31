@@ -11,7 +11,7 @@ github_repo: "https://github.com/itsFrancesFu/itsFrancesFu.github.io.git" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "凡有所相，皆是虛妄"
+sidebar-about-description: "凡有所相，皆是虛妄。"
 sidebar-avatar: /img/微信图片_20220829060850 avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
