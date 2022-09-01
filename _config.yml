@@ -62,8 +62,8 @@ disqus_username: justFrances
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: ccd95776c855a8db8d06                            #生成的clientID
-  clientSecret: 5a702dd8b382e943f81d4f14fa84aa4dbf7853d1    #生成的clientSecret
+  clientID: e1ba0c88d3a9fd50fc2e                            #生成的clientID
+  clientSecret: 8b47835391e92d055b380fe5f4a106e0f21f5229    #生成的clientSecret
   repo: itsFrancesFu.github.io    #仓库名称
   owner: itsFrancesFu    #github用户名
   admin: itsFrancesFu
