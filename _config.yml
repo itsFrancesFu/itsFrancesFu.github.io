@@ -1,11 +1,11 @@
 # Site settings
-title: Fantasy_Fran Blog
+title: Fantasy_Fran's Blog
 SEOTitle: justFrances的博客 | Fantasy_Fran Blog
 header-img: img/微信图片_20220831181053 bgp2.jpg
 email: fuhaowen1020@outlook.com
 description: "die Ewigkeit ist bloß ein Augenblick, gerade lang genug für einen Spaß."
-keyword: "Fantasy_Fran, Fantasy_Fran Blog, justFrances的博客, FrancesFu, StrayFran"
-url: "http://itsFrancesFu.github.io"          # your host, for absolute URL
+keyword: "Fantasy_Fran, Fantasy_Fran Blog, justFrances的博客, itsFrancesFu, StrayFran"
+url: "https://itsFrancesFu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/itsFrancesFu/itsFrancesFu.github.io.git" # you code repository
 
@@ -18,8 +18,8 @@ sidebar-avatar: /img/微信图片_20220829060850 avatar.jpg      # use absolute 
 
 # SNS settings
 RSS: false
-weibo_username:     yanyh02@163.com
-zhihu_username:     +8613818615800
+weibo_username:     2352697587
+zhihu_username:     dao-zhu-mandellemonad
 github_username:    itsFrancesFu
 facebook_username:  itsFrancesFu
 jianshu_username:   
@@ -57,13 +57,13 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: justFrances
+disqus_username: fantasy-frans-blog
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: ccd95776c855a8db8d06                            #生成的clientID
-  clientSecret: 5a702dd8b382e943f81d4f14fa84aa4dbf7853d1    #生成的clientSecret
+  clientID: e1ba0c88d3a9fd50fc2e                            #生成的clientID
+  clientSecret: 8b47835391e92d055b380fe5f4a106e0f21f5229    #生成的clientSecret
   repo: itsFrancesFu.github.io    #仓库名称
   owner: itsFrancesFu    #github用户名
   admin: itsFrancesFu
@@ -74,10 +74,10 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: 
+ba_track_id: 
 
 # Google Analytics
-ga_track_id: '239067330'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-239862298-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
