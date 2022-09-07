@@ -1,6 +1,6 @@
 ---
 layout:     post           # 使用的布局（不需要改）
-title:      Book Review      # 标题 
+title:      Book Review    # 标题 
 subtitle:   Book Review💥｜Moonlight Travellers月光旅者 #副标题
 date:       2022-09-07     # 时间
 author:     justFrances       # 作者
@@ -10,10 +10,9 @@ tags:        #标签
     - Book Review
 ---
 
->Book Review💥｜Moonlight Travellers月光旅者
+>Written by Will Self
+>Illustrated by Quentin Blake
 
-Written by Will Self
-Illustrated by Quentin Blake
 
 4.5-5.0/5.0 🪐🪐🪐🪐🪐
 
