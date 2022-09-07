@@ -10,7 +10,7 @@ tags:        #标签
     - Book Review
 ---
 
->Written by Will Self
+>Written by Will Self  
 >Illustrated by Quentin Blake
 
 
@@ -37,7 +37,6 @@ Blake的水彩畫以黑暗、奇幻的幽默講述了在深夜穿越未知風景
 <br/> 
 **我只想在別人構建的情慾裡，醉生夢死每一天。**     
 
-<br/> 
 <br/> 
 
 片段摘錄：
