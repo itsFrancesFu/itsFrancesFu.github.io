@@ -18,6 +18,7 @@ sidebar-avatar: /img/微信图片_20220829060850 avatar.jpg      # use absolute 
 
 # SNS settings
 RSS: false
+douban_username:     179967478
 weibo_username:     2352697587
 zhihu_username:     dao-zhu-mandellemonad
 github_username:    itsFrancesFu
