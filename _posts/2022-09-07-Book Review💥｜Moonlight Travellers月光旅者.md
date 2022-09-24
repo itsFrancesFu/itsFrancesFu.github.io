@@ -54,6 +54,7 @@ Blake的水彩畫以黑暗、奇幻的幽默講述了在深夜穿越未知風景
 意識流文字的書評我一向不太會寫，摘錄彌補書評缺陷。
 <br/> 
 <br/> 
+Quentin Blake在此書中的部分作品節選：
 
 ![Quentin Blake - Moonlight Travellers1](itsFrancesFu.github.io/img/微信图片_20220907090503 Quentin Blake - Moonlight Travellers1.jpg)  
 ![Quentin Blake - Moonlight Travellers2](itsFrancesFu.github.io/img/微信图片_20220907090527 Quentin Blake - Moonlight Travellers2.jpg)  
